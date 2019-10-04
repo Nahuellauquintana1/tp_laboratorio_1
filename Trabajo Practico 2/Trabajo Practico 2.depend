@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1570124368 source:c:\users\nahue\desktop\trabajo practico 2\inputs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inputs.h"
+
+1570219131 c:\users\nahue\desktop\trabajo practico 2\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1570225043 source:c:\users\nahue\desktop\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"inputs.h"
+
+1570222524 c:\users\nahue\desktop\trabajo practico 2\arrayemployees.h
+
+1570224826 source:c:\users\nahue\desktop\trabajo practico 2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"inputs.h"
+
